@@ -1,0 +1,19 @@
+{
+  "name": "wdi-toolkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yannycastrillon/wdi-toolkit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yannycastrillon/wdi-toolkit/issues"
+  },
+  "homepage": "https://github.com/yannycastrillon/wdi-toolkit#readme"
+}
